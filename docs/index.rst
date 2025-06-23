@@ -6,11 +6,11 @@ How to Login FuboTV Account? Easy Guide
    :caption: Contents: 
 
 
-.. image:: https://mercedesbenzgpsupdate.readthedocs.io/en/latest/_images/update.gif
+.. image:: https://vipre-login-account.readthedocs.io/en/latest/_images/login-button-png-15.png
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://fubo-tv.net
 
 
 
